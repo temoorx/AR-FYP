@@ -23,8 +23,9 @@ Preview and adjust the furniture or decor item as needed.
 
 A smartphone with a camera
 Flutter SDK
-Contribution
+<h3><b>Contribution:</b></h3>
 If you are interested in contributing to this project, feel free to fork the repository and create a pull request with your changes.
+
 
 ![home](https://user-images.githubusercontent.com/60542288/217027524-b8da810d-7a05-4feb-b88c-d3498584a67c.png) 
 ![office](https://user-images.githubusercontent.com/60542288/217027519-97c09cf6-acec-4886-90ca-890e593634cf.png)
