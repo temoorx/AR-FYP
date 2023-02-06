@@ -1,15 +1,15 @@
 <h1>DecoAR</h1>
 
 
-AR Interior Decoration
+<h2><b>AR Interior Decoration</b></h2>
 A flutter based Augmented Reality (AR) interior decoration project. With this app, you can preview furniture, decor items, and other interior elements in your room using your smartphone camera.
 
-<h3>Features</h3>
+<h3><b>AR Features:</b></h3>
 Preview furniture and decor items in your room using your smartphone camera
 Scale and rotate the items to find the perfect fit for your space
 Take screenshots and save the AR preview to show to friends and family
 
-<h3>Getting Started</h3>
+<h3><b>Getting Started:</b></h3>
 
 Open the project in your preferred IDE
 
@@ -19,7 +19,7 @@ Point your smartphone camera at the floor where you want to place the item.
 
 Preview and adjust the furniture or decor item as needed.
 
-<h3>Requirements</h3>
+<h3><b>Requirements:</b></h3>
 
 A smartphone with a camera
 Flutter SDK
